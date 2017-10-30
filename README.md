@@ -4,4 +4,4 @@
 
 # SOMETHING ABOUT ME
 - BULLETIN
-[INTRO](
+[INTRO](rari123.github.io/DAY1)
